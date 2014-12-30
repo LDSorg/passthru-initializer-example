@@ -1,6 +1,6 @@
 var https = require('https')
   , fs = require('fs')
-  , testConfig = require('./test-config')
+  , testConfig = require('./config')
   , options
   ;
 
